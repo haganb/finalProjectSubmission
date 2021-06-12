@@ -39,7 +39,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<!-- Test -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 	</properties>
 
